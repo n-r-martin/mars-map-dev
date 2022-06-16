@@ -1,0 +1,14 @@
+
+[
+    {
+      "string": "This is a starting template for data seeds",
+      "number": 2,
+      "boolean": true,
+      "array": [
+        {
+          "string": "A string in an array of objects",
+          "number": 10
+        }
+      ]
+    }
+]
