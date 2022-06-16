@@ -18,6 +18,5 @@
   },
   "dependencies": {
     "dotenv": "^16.0.1",
-    "react-transition-group": "^4.4.2"
   }
 }
